@@ -1,4 +1,4 @@
-# article-only-in-HTML
+# An article only in HTML
 
 Hello!
 
